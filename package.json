@@ -1,0 +1,12 @@
+{
+  "name": "hydrolens-update",
+  "version": "1.0.0",
+  "description": "Simple JavaScript static server for Hydrolens website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["static", "server", "hydrolens"],
+  "author": "",
+  "license": "MIT"
+}

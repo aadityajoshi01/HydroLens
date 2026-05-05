@@ -1,0 +1,17 @@
+# Large Data Files
+*.pkl
+*.joblib
+*.npy
+*.models
+*.zip
+*.tar.gz
+*.exe
+*.bin
+
+# Environment/Node
+node_modules/
+.env
+venv/
+__pycache__/
+*.json
+!package.json
